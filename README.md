@@ -1,6 +1,9 @@
-# Delhi Weather App
-
+# Delhi Cast 
 A real-time weather application for Delhi, developed using Flutter. This app provides up-to-date weather information by leveraging the OpenWeatherMap API.
+
+## App Preview
+
+<img src="Screenshot_1697979453.png" alt="screenshot1" width="270" height="570"><img src="Screenshot_1697979512.png" alt="screenshot2" width="270" height="570">
 
 ## Features
 
@@ -17,13 +20,6 @@ A real-time weather application for Delhi, developed using Flutter. This app pro
 - **OpenWeatherMap API:** The source of real-time weather data.
 - **Visual Studio Code:** The code editor used for development.
 - **Android Studio:** The emulator used for testing(Google Pixel 6A).
-
-## Getting Started
-
-## App Preview
-
-<img src="https://github.com/karanupd12/Currency_Converter_app/assets/130437928/44c874b8-2a47-476c-8d72-0608dc3a3308" alt="screenshot1" width="320" height="700">
-<img src="https://github.com/karanupd12/Currency_Converter_app/assets/130437928/4a87f189-1c1d-4168-8c90-c62932697070" alt="screenshot2" width="320" height="700">
 
 ## Contributing
 
